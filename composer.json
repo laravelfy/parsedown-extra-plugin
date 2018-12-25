@@ -1,5 +1,5 @@
 {
-  "name": "tovic/parsedown-extra-plugin",
+  "name": "laravelfy/parsedown-extra-plugin",
   "description": "Configurable Markdown to HTML converter with Parsedown Extra.",
   "keywords": ["markdown", "markdown extra", "parser", "parsedown"],
   "homepage": "https://github.com/tovic/parsedown-extra-plugin",
